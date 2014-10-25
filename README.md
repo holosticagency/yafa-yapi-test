@@ -1,4 +1,4 @@
 yafa-yapi-test
 ==============
 
-Test for nested YafaAPI repositories 
+Test for nested YafaAPI repositories :) 
